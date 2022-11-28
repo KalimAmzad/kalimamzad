@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+I'm a data scientist / machine learning engineer.
+
+<div align="center" style="display:flex;justify-content:space-between;align:center;"> 
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=kalimamzad&theme=tokyonight&show_icons=true&count_private=true)
+
+</div>
+
 <!--
 **KalimAmzad/kalimamzad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
