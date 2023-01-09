@@ -8,6 +8,9 @@ I'm a data scientist / machine learning engineer.
 
 </div>
 
+## 🏆 GitHub Trophies
+![Github Trophies](https://github-profile-trophy.vercel.app/?username=raihankhan-rk&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+
 <!--
 **KalimAmzad/kalimamzad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
