@@ -7,7 +7,9 @@ I'm a data scientist / machine learning engineer.
 ![Github stats](https://github-readme-stats.vercel.app/api?username=kalimamzad&theme=tokyonight&show_icons=true&count_private=true)
 
 </div>
+
 ---
+
 ## 🏆 GitHub Trophies
 ![Github Trophies](https://github-profile-trophy.vercel.app/?username=kalimamzad&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
