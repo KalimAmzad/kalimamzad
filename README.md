@@ -8,8 +8,6 @@ I'm a data scientist / machine learning engineer.
 
 </div>
 
----
-
 ## 🏆 GitHub Trophies
 ![Github Trophies](https://github-profile-trophy.vercel.app/?username=kalimamzad&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
